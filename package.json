@@ -1,0 +1,14 @@
+{
+  "name": "ip6-chatito",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "chatito ./src --outputPath=./dist"
+  },
+  "author": "Cristian",
+  "license": "ISC",
+  "dependencies": {
+    "chatito": "^2.3.5"
+  }
+}

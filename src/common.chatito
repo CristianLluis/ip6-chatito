@@ -1,0 +1,11 @@
+%[greetings]
+    ~[hello] ~[world]
+
+~[hello]
+    hello
+    hallo
+    hola
+~[world]
+    world
+    mundo
+    welt

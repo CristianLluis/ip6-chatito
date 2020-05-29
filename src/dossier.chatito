@@ -1,0 +1,7 @@
+import ./vocab.chatito
+
+%[dossiers]
+    ~[how?] ~[can] ~[me] ~[dossier] ~[dossier_verb]
+    ~[where] ~[can] ~[me] ~[dossier] ~[dossier_verb]
+    ~[how?] ~[can] ~[me] ~[subdossier] ~[dossier_verb]
+    ~[where] ~[can] ~[me] ~[subdossier] ~[dossier_verb]

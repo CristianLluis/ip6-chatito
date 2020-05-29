@@ -1,0 +1,20 @@
+import ./vocab.chatito
+
+%[Login]
+    ~[why] ~[have_to] ~[me_reflexive] ~[allways] ~[new?] ~[login]
+    ~[why] ~[have_to] ~[me_reflexive] ~[allways?] ~[new] ~[login]
+    ~[why?] ~[have_to] ~[me_reflexive] ~[allways] ~[new?] ~[login]
+    ~[why?] ~[have_to] ~[me_reflexive] ~[allways?] ~[new] ~[login]
+    ~[why?] ~[have_to] ~[me_reflexive] ~[allways] ~[new?] ~[login]
+    ~[why?] ~[have_to] ~[me_reflexive] ~[allways?] ~[new] ~[login]
+
+%[Login how]
+    ~[how?] ~[can] ~[me_reflexive] ~[login]
+    ~[where] ~[can] ~[me_reflexive] ~[login]
+
+%[login history]
+    ~[where] ~[i find] ~[history]
+
+%[two factor]
+    ~[where] ~[i find] ~[2 factor]
+    ~[how] ~[can] ~[me] ~[2 factor] ~[activate]

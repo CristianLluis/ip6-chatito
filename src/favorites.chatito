@@ -1,0 +1,7 @@
+import ./vocab.chatito
+
+%[fav]
+    ~[how?] ~[can] ~[me] ~[fav] ~[add]
+    ~[where] ~[can] ~[me] ~[fav] ~[add]
+    ~[how?] ~[can] ~[me] ~[fav] ~[manage]
+    ~[where] ~[can] ~[me] ~[fav] ~[manage]

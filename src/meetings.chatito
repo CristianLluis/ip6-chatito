@@ -1,0 +1,9 @@
+import ./vocab.chatito
+
+%[meeting]
+    ~[how?] ~[can] ~[me] ~[request] ~[request verb]
+    ~[where] ~[can] ~[me] ~[request] ~[request verb]
+    ~[how?] ~[can] ~[me] ~[meeting] ~[meeting verb]
+    ~[where] ~[can] ~[me] ~[meeting] ~[meeting verb]
+    ~[how?] ~[can] ~[me] ~[meeting docs] ~[meeting docs verb]
+    ~[where] ~[can] ~[me] ~[meeting docs] ~[meeting docs verb]

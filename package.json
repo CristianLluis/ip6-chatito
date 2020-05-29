@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "chatito ./src --outputPath=./dist"
+    "start": "chatito ./src --outputPath=./dist --trainingFileName=trainig.json --testingFileName=testing.json"
   },
   "author": "Cristian",
   "license": "ISC",

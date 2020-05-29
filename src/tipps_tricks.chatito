@@ -1,0 +1,6 @@
+import ./vocab.chatito
+
+%[tables]
+    ~[how] ~[can] ~[me] ~[table] ~[table verb]
+    ~[how] ~[can] ~[me] ~[table column] ~[table column verb]
+

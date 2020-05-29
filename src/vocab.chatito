@@ -1,0 +1,279 @@
+~[me]
+    ich
+    man
+
+~[me_reflexive]
+    ich mich
+    man sich
+
+~[i_have]
+    ich habe
+    man hat
+
+~[how]
+    wie
+
+~[why]
+    wieso
+    warum
+    weshalb
+
+~[can]
+    kann
+
+~[have_to]
+    muss
+
+~[allways]
+    jedes Mal
+    immer wieder
+    abermals
+
+~[new]
+    neu
+    erneut
+
+~[login]
+    einloggen
+    anmelden
+
+~[where]
+    wo
+
+~[find]
+    finde
+
+~[history]
+    den Anmeldeverlauf
+
+~[task history]
+    den Verlauf einer Aufgabe
+    den Aufgabenverlauf
+
+~[i find]
+    finde ich
+    findet man
+
+~[2 factor]
+    die 2-Faktor-Authentifizierung
+
+~[activate]
+    aktivieren
+    einrichten
+
+~[table]
+    eine Zeile
+    eine Spalte
+
+~[table verb]
+    auswählen
+    löschen
+    hinzufügen
+
+~[table column]
+    Spalten
+
+~[table column verb]
+    einblenden
+    sortieren
+    ausblenden
+    gruppieren
+
+~[add]
+    hinzufügen
+
+~[manage]
+    verwalten
+    administrieren
+
+~[docs checkedout]
+    die ausgecheckten Dokumente
+
+~[docs]
+    ein Dokument
+
+~[dossier]
+    ein Dossier
+
+~[existig stuff]
+    die bereits erstellen Dossier
+    ein bestehendes Dossier
+    bestehende Anträge
+    die bestehenden Anträge
+
+~[stuff]
+    Anträge
+    Dossier
+    Dokumente
+
+~[existing verb]
+    zum Bearbeiten
+    zum Einsehen
+
+~[stuff verb]
+    bearbeiten
+    erledigen
+    löschen
+    erstellen
+    auflisten
+
+
+~[subdossier]
+    ein Subdossier
+
+~[dossier_verb]
+    eröffnen
+    bearbeiten
+    erstellen
+    durchsuchen
+    reaktivieren
+    stornieren
+
+~[are]
+    sind
+
+~[docs_verb]
+    eröffnen
+    bearbeiten
+    erstellen
+    durchsuchen
+    kopieren
+    in den Papierkorb verschieben
+    per E-Mail senden
+    importieren
+    heraufladen
+    hochladen
+    per Drag'n'Drop hinzufügen
+    aus einer Vorlage erstellen
+    einchecken
+
+~[contact_verb]
+    erfassen
+    verwenden
+    löschen
+    verwalten
+    bearbeiten
+    hinzufügen
+
+~[contact]
+    Kontakte
+
+~[search]
+    die Suche
+    die erweiterte Suche
+
+~[search object]
+    Inhalte
+    Dokumente
+    Anträge
+    Dossier
+    Aufgaben
+
+
+~[search verb]
+    suchen
+    durchsuchen
+    finden
+
+~[works]
+    funktioniert
+
+~[task]
+    eine Aufgabe
+    Aufgaben
+
+~[task status]
+    den Status einer Aufgabe
+
+~[task verb]
+    erstellen
+    erfassen
+    hinzufügen
+    überarbeiten
+    löschen
+    als erledigt markieren
+    abschliessen
+    überwachen
+    neu zuweisen
+    an einem Arbeitskollegen delegieren
+    delegieren
+    kommentieren
+
+~[status verb]
+    anspassen
+    ändern
+
+~[request]
+    einen Antrag
+
+~[request verb]
+    erfassen
+    erstellen
+    hinzufügen
+    traktandieren
+
+~[meeting]
+    eine Sitzung
+
+~[meeting verb]
+    vorbereiten
+    durchführen
+    abschliessen
+    organisieren
+    initieren
+    hinzufügen
+    erstellen
+
+~[meeting docs]
+    Sitzungsunterlagen
+
+~[meeting docs verb]
+    aufbereiten
+    vorbereiten
+
+~[want]
+    möchte
+    will
+
+~[email]
+    eine E-Mail
+    eine Nachricht
+    eine Mitteilung
+
+~[no email]
+    keine E-Mail
+    keine Nachricht
+
+~[mail verb]
+    an das Gever Team senden
+    direkt an das Gever Team senden
+    an Gever versenden
+    per Drag'n'Drop ablegen
+    per Drag n Drop ablegen
+    per Drag & Drop ablegen
+    per Drag'n'Drop speichern
+    per Drag n Drop speichern
+    per Drag & Drop speichern
+
+~[doc preview]
+    die Vorschau eines Dokumentes
+    die Dokument-Vorschau
+    die Vorschau
+    die Dokument Preview
+    die Preview
+
+~[watch]
+    anschauen
+    aufrufen
+
+~[show]
+    anzeigen
+    darstellen
+
+~[favs verb]
+    setzen
+    entfernen
+    aufrufen
+    auflisten
+    anzeigen
+    markieren

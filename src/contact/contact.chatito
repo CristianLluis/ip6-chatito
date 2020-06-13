@@ -1,0 +1,14 @@
+import ./contact-vocab.chatito
+import ../common-vocab.chatito
+
+%[Wie kann ich einen Kontakt erfassen]
+    ~[init_question?] ~[contact_new] ~[contact_add]
+
+%[Wie kann ich einen Kontakt löschen]
+    ~[init_question?] ~[contact_new] ~[contact_delete]
+
+%[Wie kann ich Kontakte bearbeiten]
+    ~[init_question?] ~[contact_new] ~[contact_edit]
+
+~[Wie kann ich Kontakte anzeigen]
+    ~[init_question?] ~[contact_new] ~[contact_show]

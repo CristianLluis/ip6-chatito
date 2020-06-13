@@ -1,8 +1,0 @@
-import ./vocab.chatito
-
-%[docs]
-    ~[how] ~[find] ~[me] ~[docs checkedout]
-    ~[where] ~[find] ~[me] ~[docs checkedout]
-    ~[where] ~[are] ~[docs checkedout]
-    ~[how?] ~[can] ~[me] ~[docs] ~[docs_verb]
-    ~[where] ~[can] ~[me] ~[docs] ~[docs_verb]

@@ -1,0 +1,20 @@
+import ./search-vocab.chatito
+import ../contact/contact-vocab.chatito
+import ../document/document-vocab.chatito
+import ../dossier/dossier-vocab.chatito
+import ../favorites/favorites-vocab.chatito
+import ../meeting/meeting-vocab.chatito
+import ../task/tasks-vocab.chatito
+
+%[Wo kann ich Kontakte finden]
+    ~[search_init] ~[contact_new] ~[search]
+%[Wo kann ich Dokumente finden]
+    ~[search_init] ~[document] ~[search]
+%[Wo kann ich Dossier finden]
+    ~[search_init] ~[dossier] ~[search]
+%[Wo kann ich Favoriten finden]
+    ~[search_init] ~[fav] ~[search]
+%[Wo kann ich Sitzungen finden]
+    ~[search_init] ~[meeting] ~[search]
+%[Wo kann ich Aufgaben finden]
+    ~[search_init] ~[task] ~[search]

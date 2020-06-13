@@ -1,0 +1,29 @@
+import ../common-vocab.chatito
+import ./dossier-vocab.chatito
+
+%[Wie kann ich ein Dossier hinzufügen]
+    ~[init_question?] ~[dossier] ~[dossier_add]
+
+%[Wie kann ich ein Dossier bearbeiten]
+    ~[init_question?] ~[dossier] ~[dossier_edit]
+
+%[Wie kann ich ein Dossier löschen]
+    ~[init_question?] ~[dossier] ~[dossier_delete]
+
+%[Wie kann ich ein Dossier anzeigen]
+    ~[init_question?] ~[dossier] ~[dossier_show]
+
+%[Wie kann ich ein Dossier kopieren]
+    ~[init_question?] ~[dossier] ~[dossier_copy]
+
+%[Wie kann ich ein Dossier versenden]
+    ~[init_question?] ~[dossier] ~[dossier_send]
+
+%[Wie kann ich ein Dossier reaktiveren]
+    ~[init_question?] ~[dossier] ~[dossier_reactivate]
+
+%[Wie kann ich ein Dossier stornieren]
+    ~[init_question?] ~[dossier] ~[dossier_deactivate]
+
+%[Wie kann ich ein Dossier archivieren]
+    ~[init_question?] ~[dossier] ~[dossier_archive]

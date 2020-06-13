@@ -1,0 +1,84 @@
+~[document_checkedout]
+    ein ausgechecktes Dokument
+    ein Dokument
+    auscheckte Dokumente
+    Dokumente
+
+~[document]
+    ein Dokument
+    Dokumente
+    ein neues Dokument
+    neue Dokumente
+
+~[document_checkout]
+    auschecken
+    bearbeiten
+    blockeren
+    für mich blockieren
+    für andere Arbeitskollegen blockieren
+
+~[document_checkin]
+    einchecken
+    wieder einchecken
+    freigeben
+    wieder freigeben
+    zur Bearbeitung freigeben
+
+~[document_add]
+    erfassen
+    hinzufügen
+    erstellen
+    ergänzen
+    eröffnen
+    importieren
+    heraufladen
+    hochladen
+    per Drag'n'Drop hinzufügen
+    aus einer Vorlage erstellen
+
+~[document_edit]
+    bearbeiten
+    verwalten
+    modifizieren
+    einchecken
+    editieren
+
+~[document_delete]
+    entfernen
+    löschen
+    herausnehmen
+    in den Papierkorb verschieben
+
+~[document_show]
+    anzeigen
+    aufrufen
+    anzeigen
+    darstellen
+
+~[document_copy]
+    kopieren
+    duplizieren
+
+~[document_send]
+    per E-Mail senden
+    versenden
+    senden
+    teilen
+    weiterleiten
+    schicken
+
+~[document_drag_n_drop]
+    per Drag'n'Drop ablegen
+    per Drag n Drop ablegen
+    per Drag & Drop ablegen
+    per Drag'n'Drop speichern
+    per Drag n Drop speichern
+    per Drag & Drop speichern
+
+~[document_preview]
+    die Vorschau eines Dokumentes
+    die Dokument-Vorschau
+    die Vorschau
+    die Dokument Preview
+    die Dokument-Preview
+    die Preview

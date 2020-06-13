@@ -1,0 +1,79 @@
+~[task]
+    eine Aufgabe
+    Aufgaben
+    eine neue Aufgabe
+    neue Aufgaben
+
+~[task_show]
+    aufrufen
+    auflisten
+    anzeigen
+    darstellen
+
+~[task_status_show]
+    aufrufen
+    anzeigen
+
+~[task_add]
+    erfassen
+    hinzufügen
+    erstellen
+    ergänzen
+    importieren
+
+~[task_edit]
+    bearbeiten
+    verwalten
+    modifizieren
+    editieren
+    verändern
+    überarbeiten
+
+~[task_delete]
+    entfernen
+    löschen
+    herausnehmen
+
+~[task_complete]
+    abschliessen
+    als erledigt markieren
+    beenden
+    fertigstellen
+
+~[task_monitor]
+    überwachen
+    verfolgen
+    folgen
+    überprüfen
+    beobachten
+    abonieren
+
+~[task_assign]
+    zuweisen
+    neu zuweisen
+    delegieren
+    neu delegieren
+    an einem Arbeitskollegen zuweisen
+    an einem Arbeitskollegen delegieren
+    jemandem zuweisen
+    jemandem delegieren
+    jemandem anders zuweisen
+    jemandem anders delegieren
+
+~[task_comment]
+    einen Kommentar
+    einen Kommentar zur Aufgabe
+    einen neuen Kommentar
+    einen neuen Kommentar zur Aufgabe
+
+~[task_comment_write]
+    schreiben
+    verfassen
+
+~[task_status]
+    den Status einer Aufgabe
+    den Aufgabenstatus
+
+~[task_history]
+    den Verlauf einer Aufgabe
+    den Aufgabenverlauf

@@ -1,5 +1,0 @@
-import ./vocab.chatito
-
-%[contact]
-    ~[how?] ~[can] ~[me] ~[contact] ~[contact_verb]
-    ~[where] ~[can] ~[me] ~[dossier] ~[contact_verb]

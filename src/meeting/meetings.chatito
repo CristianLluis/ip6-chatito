@@ -1,0 +1,32 @@
+import ./meeting-vocab.chatito
+import ../common-vocab.chatito
+
+%[Wie kann ich eine Sitzung erstellen]
+    ~[init_question] ~[meeting] ~[meeting_add]
+
+%[Wie kann ich eine Sitzung bearbeiten]
+    ~[init_question] ~[meeting] ~[meeting_edit]
+
+%[Wie kann ich eine Sitzung löschen]
+    ~[init_question] ~[meeting] ~[meeting_delete]
+
+%[Wie kann ich eine Sitzung anzeigen]
+    ~[init_question] ~[meeting] ~[meeting_show]
+
+%[Wie kann ich eine Sitzung vorbereiten]
+    ~[init_question] ~[meeting] ~[meeting_prepare]
+
+%[Wie kann ich eine Sitzung durchführen]
+    ~[init_question] ~[meeting] ~[meeting_run]
+
+%[Wie kann ich einen Antrag erstellen]
+    ~[init_question] ~[proposal] ~[proposal_add]
+
+%[Wie kann ich eine Antrag bearbeiten]
+    ~[init_question] ~[proposal] ~[meeting_edit]
+
+%[Wie kann ich eine Antrag löschen]
+    ~[init_question] ~[proposal] ~[meeting_delete]
+
+%[Wie kann ich eine Antrag anzeigen]
+    ~[init_question] ~[proposal] ~[meeting_show]

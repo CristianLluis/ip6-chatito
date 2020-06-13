@@ -1,0 +1,44 @@
+import ../common-vocab.chatito
+import ./document-vocab.chatito
+
+%[Wie kann ich ein ausgechecktes Dokument einchecken]
+    ~[init_question?] ~[document_checkedout] ~[document_checkin]
+
+%[Wie kann ich ein ausgechecktes Dokument bearbeiten]
+    ~[init_question?] ~[document_checkedout] ~[document_edit]
+
+%[Wie kann ich ein ausgechecktes Dokument löschen]
+    ~[init_question?] ~[document_checkedout] ~[document_delete]
+
+%[Wie kann ich ein ausgechecktes Dokument kopieren]
+    ~[init_question?] ~[document_checkedout] ~[document_copy]
+
+%[Wie kann ich ein ausgechecktes Dokument anzeigen]
+    ~[init_question?] ~[document_checkedout] ~[document_show]
+
+%[Wie kann ich ein Dokument auschecken]
+    ~[init_question?] ~[document] ~[document_checkout]
+
+%[Wie kann ich ein Dokument hinzufügen]
+    ~[init_question?] ~[document] ~[document_add]
+
+%[Wie kann ich ein Dokument bearbeiten]
+    ~[init_question?] ~[document] ~[document_edit]
+
+%[Wie kann ich ein Dokument löschen]
+    ~[init_question?] ~[document] ~[document_delete]
+
+%[Wie kann ich ein Dokument kopieren]
+    ~[init_question?] ~[document] ~[document_copy]
+
+%[Wie kann ich ein Dokument versenden]
+    ~[init_question?] ~[document] ~[document_send]
+
+%[Wie kann ich ein Dokument anzeigen]
+    ~[init_question?] ~[document] ~[document_show]
+
+%[Wie kann ich ein Dokument per Drag'n'Drop ablegen]
+    ~[init_question?] ~[document] ~[document_drag_n_drop]
+
+%[Wie kann ich die Dokument Preview anzeigen]
+    ~[init_question?] ~[document_preview] ~[document_show]

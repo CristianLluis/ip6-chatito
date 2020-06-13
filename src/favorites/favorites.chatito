@@ -1,0 +1,14 @@
+import ./favorites-vocab.chatito
+import ../common-vocab.chatito
+
+%[Wie kann ich Favoriten erfassen]
+    ~[init_question?] ~[fav] ~[fav_add]
+
+%[Wie kann ich Favoriten löschen]
+    ~[init_question?] ~[fav] ~[fav_delete]
+
+%[Wie kann ich Favoriten bearbeiten]
+    ~[init_question?] ~[fav] ~[fav_edit]
+
+%[Wie kann ich Favoriten anzeigen]
+    ~[init_question?] ~[fav] ~[fav_show]

@@ -1,0 +1,48 @@
+~[meeting]
+    eine Sitzung
+    Sitzungen
+
+~[proposal]
+    einen Antrag
+    Anträge
+
+~[meeting_add]
+    erfassen
+    hinzufügen
+    erstellen
+
+~[meeting_edit]
+    bearbeiten
+    verwalten
+    modifizieren
+    editieren
+
+~[meeting_delete]
+    entfernen
+    löschen
+
+~[meeting_show]
+    aufrufen
+    auflisten
+    anzeigen
+    darstellen
+
+~[meeting_prepare]
+    initieren
+    vorbereiten
+    organisieren
+
+~[meeting_run]
+    durchführen
+    abschliessen
+
+~[meeting_document]
+    Sitzungsunterlagen
+    Unterlagen
+    Sitzungsdokumente
+
+~[proposal_add]
+    traktandieren
+    erfassen
+    hinzufügen
+    erstellen

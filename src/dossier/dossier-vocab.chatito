@@ -1,0 +1,59 @@
+~[dossier]
+    ein Dossier
+    Dossiers
+    ein neues Dossier
+    neue Dossiers
+    ein Subdossier
+    ein neues Subdossier
+    Subdossiers
+
+~[dossier_add]
+    erfassen
+    hinzufügen
+    erstellen
+    ergänzen
+    eröffnen
+    aus einer Vorlage erstellen
+
+~[dossier_edit]
+    bearbeiten
+    verwalten
+    modifizieren
+    einchecken
+    editieren
+
+~[dossier_delete]
+    entfernen
+    löschen
+    herausnehmen
+    in den Papierkorb verschieben
+
+~[dossier_copy]
+    kopieren
+    duplizieren
+
+~[dossier_send]
+    per E-Mail senden
+    versenden
+    senden
+    teilen
+    weiterleiten
+    schicken
+
+~[dossier_show]
+    anzeigen
+    aufrufen
+    anzeigen
+    darstellen
+
+~[dossier_reactivate]
+    reaktivieren
+    aktivieren
+
+~[dossier_deactivate]
+    stornieren
+    deaktivieren
+    annulieren
+
+~[dossier_archive]
+    archivieren

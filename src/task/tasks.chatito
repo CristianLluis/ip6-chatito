@@ -1,0 +1,37 @@
+import ./tasks-vocab.chatito
+import ../common-vocab.chatito
+
+%[Wie kann ich eine Aufgabe erstellen]
+    ~[init_question?] ~[task] ~[task_add]
+
+%[Wie kann ich eine Aufgabe löschen]
+    ~[init_question?] ~[task] ~[task_delete]
+
+%[Wie kann ich eine Aufgabe anzeigen]
+    ~[init_question?] ~[task] ~[task_show]
+
+%[Wie kann ich eine Aufgabe bearbeiten]
+    ~[init_question?] ~[task] ~[task_edit]
+
+%[Wie kann ich eine Aufgabe abschliessen]
+    ~[init_question?] ~[task] ~[task_complete]
+
+%[Wie kann ich den Status einer Aufgabe anzeigen]
+    ~[init_question?] ~[task_status] ~[task_status_show]
+
+%[Wie kann ich den Status einer Aufgabe bearbeiten]
+    ~[init_question?] ~[task_status] ~[task_edit]
+
+%[Wie kann ich den Aufgabenverlauf anzeigen]
+    ~[init_question?] ~[task_history] ~[task_show]
+
+%[Wie kann ich eine Aufgabe überwachen]
+    ~[init_question?] ~[task] ~[task_monitor]
+
+%[Wie kann ich eine Aufgabe zuweisen]
+    ~[init_question?] ~[task] ~[task_assign]
+
+%[Wie kann ich eine Aufgabe kommentieren]
+    ~[init_question?] ~[task] kommentieren
+    ~[init_question?] ~[task_comment] ~[task_add]
+    ~[init_question?] ~[task_comment] ~[task_comment_write]

@@ -1,0 +1,32 @@
+~[fav]
+    ein Favorit
+    Favoriten
+    ein neuer Favorit
+    neue Favoriten
+
+~[fav_add]
+    setzen
+    erfassen
+    hinzufügen
+    erstellen
+    ergänzen
+    importieren
+    favorisieren
+    markieren
+
+~[fav_edit]
+    bearbeiten
+    verwalten
+    modifizieren
+    editieren
+
+~[fav_delete]
+    entfernen
+    löschen
+    herausnehmen
+
+~[fav_show]
+    aufrufen
+    auflisten
+    anzeigen
+    darstellen

@@ -1,7 +1,0 @@
-import ./vocab.chatito
-
-%[tasks]
-    ~[how?] ~[can] ~[me] ~[task] ~[task verb]
-    ~[where] ~[can] ~[me] ~[task] ~[task verb]
-    ~[how?] ~[can] ~[me] ~[task status] ~[status verb]
-    ~[where] ~[can] ~[me] ~[task status] ~[status verb]

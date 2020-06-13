@@ -1,0 +1,10 @@
+import ./login-vocab.chatito
+import ../common-vocab.chatito
+
+%[Warum muss ich mich immer wieder neu anmelden]
+    ~[why] ~[have_to] ~[me_reflexive] ~[allways] ~[new?] ~[login]
+    ~[why] ~[have_to] ~[me_reflexive] ~[allways?] ~[new] ~[login]
+    ~[why?] ~[have_to] ~[me_reflexive] ~[allways] ~[new?] ~[login]
+    ~[why?] ~[have_to] ~[me_reflexive] ~[allways?] ~[new] ~[login]
+    ~[why?] ~[have_to] ~[me_reflexive] ~[allways] ~[new?] ~[login]
+    ~[why?] ~[have_to] ~[me_reflexive] ~[allways?] ~[new] ~[login]?

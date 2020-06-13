@@ -2,9 +2,8 @@
   "name": "ip6-chatito",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "start": "chatito ./src --outputPath=./dist --trainingFileName=trainig.json --testingFileName=testing.json"
+    "start": "chatito ./src --outputPath=./dist --trainingFileName=training.json --testingFileName=testing.json"
   },
   "author": "Cristian",
   "license": "ISC",

@@ -1,8 +1,9 @@
-~[email]
-    eine E-Mail
-    eine Nachricht
-    eine Mitteilung
+~[mail_dossier_verb]
+    per Mail an einem Dossier senden
+    per Mail an einem Dossier schicken
+    per Mail einem Dossier anhängen
 
-~[no email]
-    keine E-Mail
-    keine Nachricht
+~[mail_document]
+    Dokumente
+    ein Dokument
+    Unterlagen

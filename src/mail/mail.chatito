@@ -1,0 +1,6 @@
+import ./mail-vocab.chatito
+import ../common-vocab.chatito
+
+
+%[Wie kann ich Dokumente an einen Dossier per Email senden]
+    ~[question_init?] ~[mail_document] ~[mail_dossier_verb]
